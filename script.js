@@ -1,0 +1,10 @@
+let div=document.getElementById("div");
+let hading=document.getElementById("h1");
+div.style.background ="yellow";
+div.style.padding ="10px";
+div.style.margin ="20px";
+div.style.height="200px";
+div.style.width="300px";
+hading.style.fontSize="18px";
+hading.style.fontWeight="bold";
+hading.style.color="blue";
